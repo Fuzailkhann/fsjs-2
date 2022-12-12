@@ -6,3 +6,6 @@
 
 [link](/HTML%20AND%20CSS%20ASIGNMENT/Project%2001/)
 ![image ](/HTML%20AND%20CSS%20ASIGNMENT/Project%2001/output.png)
+
+**Project 02**
+[link](/HTML%20AND%20CSS%20ASIGNMENT/Project%2002/)
