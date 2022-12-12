@@ -1,0 +1,94 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+.container{
+    max-width: 1440px;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+nav{
+    display: flex;
+    padding: 20px 10%;
+    height: 15vh;
+}
+.navbar-container img{
+    width: 74px;
+    margin-right: 30px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+nav ul li{
+    list-style: none;
+    font-weight: 500;
+    margin-left: 5%;
+    color: #808080;
+}
+li:first-child{
+    color: black;
+
+}
+
+.banner{
+    height: 85vh;
+    /* width: 50%; */
+}
+.banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+
+}
+.banner-container div{
+    position: relative;
+    /* width: 50%;
+     */
+}
+section div h1{
+    font-size: 45px;
+}
+section div p{
+    margin: 5% 0;
+}
+.nav-button{
+    padding: 15px 30px;
+    border: none;
+    background-color: rgb(117, 39, 190);
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+}
+.button-group{
+    margin-left: 445px;
+}
+.description{
+    padding-bottom: 50px ;
+    color: #808080;
+}
+span{
+    color: #710FC6;
+}
+.heading-text{
+    color: #0D335A;
+    margin-top: 5px;
+}
+.banner-container div img{
+    height: 123vh;
+}
+
+
+
