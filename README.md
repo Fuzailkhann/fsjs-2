@@ -4,7 +4,7 @@
 
 **Project 01**
 
-[link](/HTgit ML%20AND%20CSS%20ASIGNMENT/Project%2001/)
+[link](/HTML%20AND%20CSS%20ASIGNMENT/Project%2001/)
 ![image ](/HTML%20AND%20CSS%20ASIGNMENT/Project%2001/output.png)
 
 **Project 02**
